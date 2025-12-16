@@ -203,4 +203,3 @@ credit-risk-model/
 - [Basel II Capital Accord](https://www.bis.org/publ/bcbs107.htm)
 - [Alternative Credit Scoring - HKMA](https://www.hkma.gov.hk/media/eng/doc/key-functions/financial-infrastructure/alternative_credit_scoring.pdf)
 - [Credit Scoring Approaches Guidelines - World Bank](https://thedocs.worldbank.org/en/doc/935891585869698451-0130022020/original/CREDITSCORINGAPPROACHESGUIDELINESFINALWEB.pdf)
-
