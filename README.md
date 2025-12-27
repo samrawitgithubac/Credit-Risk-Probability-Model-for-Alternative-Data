@@ -200,6 +200,20 @@ credit-risk-model/
 
 ## References
 
+### Credit Risk Fundamentals
 - [Basel II Capital Accord](https://www.bis.org/publ/bcbs107.htm)
 - [Alternative Credit Scoring - HKMA](https://www.hkma.gov.hk/media/eng/doc/key-functions/financial-infrastructure/alternative_credit_scoring.pdf)
 - [Credit Scoring Approaches Guidelines - World Bank](https://thedocs.worldbank.org/en/doc/935891585869698451-0130022020/original/CREDITSCORINGAPPROACHESGUIDELINESFINALWEB.pdf)
+- [Credit Scoring Statistical Analysis](https://www3.stat.sinica.edu.tw/statistica/oldpdf/A28n535.pdf)
+- [How to Develop a Credit Risk Model and Scorecard](https://towardsdatascience.com/how-to-develop-a-credit-risk-model-and-scorecard-91335fc01f03)
+- [Credit Risk - Corporate Finance Institute](https://corporatefinanceinstitute.com/resources/commercial-lending/credit-risk/)
+- [Credit Risk - Risk Officer](https://www.risk-officer.com/Credit_Risk.htm)
+
+### Feature Engineering (WoE/IV)
+- [Weight of Evidence and Information Value Explained](https://www.listendata.com/2015/03/weight-of-evidence-woe-and-information.html)
+- [xverse – Python Package](https://github.com/topics/xverse)
+- [woe – Python Package](https://github.com/boredbird/woe)
+
+### Machine Learning & MLOps
+- [Sklearn Pipelines Guide](https://scikit-learn.org/stable/modules/compose.html)
+- [Hyperparameter Tuning with GridSearchCV](https://scikit-learn.org/stable/modules/grid_search.html)
