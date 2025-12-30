@@ -125,7 +125,14 @@ def _plot_confusion_matrix(cm: np.ndarray, title: str) -> plt.Figure:
     thresh = cm.max() / 2.0 if cm.max() else 0.5
     for i in range(cm.shape[0]):
         for j in range(cm.shape[1]):
-            ax.text(j, i, format(cm[i, j], "d"), ha="center", va="center", color="white" if cm[i, j] > thresh else "black")
+            ax.text(
+                j,
+                i,
+                format(cm[i, j], "d"),
+                ha="center",
+                va="center",
+                color="white" if cm[i, j] > thresh else "black",
+            )
 
     fig.tight_layout()
     return fig

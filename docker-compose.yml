@@ -1,0 +1,14 @@
+services:
+  api:
+    build: .
+    ports:
+      - "8000:8000"
+    environment:
+      # Use local MLflow backend + registry (mounted from project root)
+      MLFLOW_TRACKING_URI: "sqlite:///mlflow.db"
+      MODEL_URI: "models:/credit_risk_model/1"
+    volumes:
+      # Mount project so the container can access mlflow.db and mlruns/
+      - ./:/app
+
+
