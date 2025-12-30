@@ -53,6 +53,7 @@ models/
 # MLflow
 mlruns/
 mlartifacts/
+mlflow.db
 
 # Environment variables
 .env
